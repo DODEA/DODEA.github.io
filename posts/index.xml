@@ -1,31 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Terminal</title>
+    <title>Posts on DODEA&#39;s Blog</title>
     <link>https://DODEA.github.io/posts/</link>
-    <description>Recent content in Posts on Terminal</description>
+    <description>Recent content in Posts on DODEA&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Jul 2021 13:47:28 +0930</lastBuildDate><atom:link href="https://DODEA.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TryHackMe Pre-Security Learning Path Review</title>
+      <title>TryHackMe&#39;s Newest Learning Path, A Game Changer For Cyber Security Beginners</title>
       <link>https://DODEA.github.io/posts/presecuritylearningpathreview/</link>
       <pubDate>Thu, 08 Jul 2021 13:47:28 +0930</pubDate>
       
       <guid>https://DODEA.github.io/posts/presecuritylearningpathreview/</guid>
-      <description>The TryHackMe Pre-Security learning path is the newest of the learning paths and acts as a way for anyone brand new to IT and cyber security to learn the basics of the field. This includes getting their hands dirty and the minds ticking with some introductory networking, linux and windows fundamentals.
-This is some sample C++ code for the classic Hello World program:
-#include &amp;lt;iostream&amp;gt; int main(void) { std::cout &amp;lt;&amp;lt; &amp;#34;Hello World&amp;#34; &amp;lt;&amp;lt; std::endl; return 0; } </description>
-      <content>&lt;p&gt;The TryHackMe Pre-Security learning path is the newest of the learning paths and acts as a way for anyone brand new to IT and cyber security to learn the basics of the field. This includes getting their hands dirty and the minds ticking with some introductory networking, linux and windows fundamentals.&lt;/p&gt;
-&lt;p&gt;This is some sample C++ code for the classic Hello World program:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#include&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;
-&lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
-&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(&lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt;) 
-{
-    std&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;cout &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; std&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;endl;
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
+      <description>TryHackMe: https://tryhackme.com/
+Pre-Security Learning Path: https://tryhackme.com/path/outline/presecurity
+The Pre-Security learning path is the newest addition to TryHackMe&amp;rsquo;s range of learning paths, which if you are unfamilar are slef-paced courses that teach you about a particular area of cyber security. The Pre-Security learning path acts as a way for anyone brand new to IT and cyber security to learn the very basic pre-requesite knowledge to get them started on their cyber journey.</description>
+      <content>&lt;p&gt;TryHackMe: &lt;a href=&#34;https://tryhackme.com/&#34;&gt;https://tryhackme.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pre-Security Learning Path: &lt;a href=&#34;https://tryhackme.com/path/outline/presecurity&#34;&gt;https://tryhackme.com/path/outline/presecurity&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Pre-Security learning path is the newest addition to TryHackMe&amp;rsquo;s range of learning paths, which if you are unfamilar are slef-paced courses that teach you about a particular area of cyber security. The Pre-Security learning path acts as a way for anyone brand new to IT and cyber security to learn the very basic pre-requesite knowledge to get them started on their cyber journey.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://DODEA.github.io/preSecurityLogo.jpeg&#34; alt=&#34;TryHackMe&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;pre-security-learning-path-structure&#34;&gt;Pre-Security Learning Path Structure&lt;/h1&gt;
+&lt;p&gt;The Pre-Security learning path contains five sections including Cyber Security Introduction, Networking Fundamentals, How The Web Works, Linux Fundamentals and Windows Fundamentals. Each of these sections is then broken down further into serveral rooms, which are mini interactive classrooms, that teach one of the core topics related to the section. As you complete each room the content builds on what you learn&amp;rsquo;t from the last one until you have a good understanding of the fundamental concepts for the seciotn. For example in the Networking Fundamentals section there are five total rooms that starts from the very beginning of what networking is and slowly builds up the participants knowledge until they have a solid introductory knowledge of networking. Below is a screenshot showing TryHackMe&amp;rsquo;s learning path structure for the Networking Fundamentals section.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://DODEA.github.io/NetworkFundamentalsSection.JPG&#34; alt=&#34;NetworkingFundamentalsSection&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As you can see from the image above the section called Networking Fundamentals is broken down into rooms which each teach a unique aspect of Networking. By using this structure for teaching participants can easily see where the contents of each section leads and how each room is related giving them an understanding of why they are learning the provided content.&lt;/p&gt;
+&lt;h1 id=&#34;cyber-security-introduction-section&#34;&gt;Cyber Security Introduction Section&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://DODEA.github.io/IntroductorySection.JPG&#34; alt=&#34;IntroductorySection&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Cyber Security Introduction section is the first section that the participant must work through and provides only a single room. This room gives an overview of why it is important to learn how the internet works and how networking works by providing a set of questions and an accompanying interactive activity for each part of the room. I really liked this aspect of the Pre-Security learning path because unlkie other cyber secuirty courses this one told you the why it is important to learn the provided content of this path. Further, by using a case study of a real life cyber attack on a well known company such as Target it shows particpants right from the start that what they are learning is applciable to real life. After that introduction into why these concepts must be learn&amp;rsquo;t as a cyber security professional the room then explains what you can do once you have finished the Pre-Security learning path giving participants some much need direction of where they can continue their cyber security training.&lt;/p&gt;
+&lt;h1 id=&#34;networking-fundamentals-section&#34;&gt;Networking Fundamentals Section&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://DODEA.github.io/NetworkFundamentalsSection.JPG&#34; alt=&#34;NetworkingFundamentalsSection&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Networking Fundamentals section is the first content based section of the Pre-Security learning path and is one of the longest. This section covers so much of the foundational information about networking right from the basics of defining a network and the OSI model all the way down to packets and frames. However, the beauty of this section is that it strikes the right balance between reading and understanding theory and having some hands on pratical experiences. These pratical experiences were really what made this section so good because it allows you to see these netowrking concepts in acion through a visual hands on experience. For example one of my favourties was the Network Simulator, which can be seen in the image below, which allowed you to visualise how hosts can communicate on a network and how a TCP three way handshake is done in practice.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://DODEA.github.io/NetworkSimulator.JPG&#34; alt=&#34;NetworkingSimulator&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The only thing I would change about the Network Simulator would be the ability to pause the simulation and the ability to slow down the rate at which packets are travelling. I found that some times it was hard to keep up with what was going on and it would have been nice to slow it down or even pause it so you have enough time to process what is happening. However, despite the little improvement that could be made to the Network Simulator I found that on a whole these practical experiences were fantastic and something I wish I had when I first learn&amp;rsquo;t networking. I found this section so helpful despite alreay knowing a fair amount of networking and stronlgy believe that this section is a great tool for both beginners who want to learn the basics of networking and intermediate particpants that want to refresh their networking knowledge.&lt;/p&gt;
+&lt;h1 id=&#34;how-the-web-works-section&#34;&gt;How The Web Works Section&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://DODEA.github.io/HowTheWebWorksSection.JPG&#34; alt=&#34;HowTheWebWorksSection&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The How The Web Works Section continues on from the Networking Fundamentals section and starts to teach participants how the networking concepts relate to the internet. This section teaches content such as how internet services are implemented and accessed, how the HTTP protocol os used by web servers, how websites are made and then how all these concepts work together to prodivde us with the internet as we know it. Again I think this section strikes the perfect balance between theory and getting to interact with hands on praticals which makes for an enjoyable study experience.&lt;/p&gt;
+&lt;h1 id=&#34;linux-fundamentals-section&#34;&gt;Linux Fundamentals Section&lt;/h1&gt;
+&lt;h1 id=&#34;windows-fundamentals-section&#34;&gt;Windows Fundamentals Section&lt;/h1&gt;
+&lt;h1 id=&#34;final-thoughts&#34;&gt;Final Thoughts&lt;/h1&gt;
+</content>
     </item>
     
   </channel>
